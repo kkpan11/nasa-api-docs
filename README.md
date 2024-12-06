@@ -30,7 +30,7 @@ We only map the orginal developer's endpoint to one of our api.nasa.gov endpoint
 ### If you are a NASA civil servant or contractor and wish to add an API to api.nasa.gov, please contact <a href="mailto.hq-open-innovation@mail.nasa.gov">hq-open-innovation@mail.nasa.gov</a>. 
 #### If you are behind the NASA firewall, you can find additional details on https://developer.nasa.gov/pages/OpenInnovation/Table_of_Contents_Public/2021/05/14/API-NASA-GOV.html
 
-**Site Developer**: Darith Yim, Daniel Rendon, Jeffery Rubio, Tessa Brazda
+**Site Developer**: Darith Yim, Daniel Rendon, Tessa Brazda
 
 **NASA Official**: <a href="mailto:nidhi.wahi@nasa.gov">Nidhi Wahi</a>
 
